@@ -6,11 +6,12 @@ Cada banca tem o seu conjunto, porque o formato e os temas mais cobrados são di
 | | SUS-SP | USP Bauru |
 |---|---|---|
 | Flashcards | [`sus-sp/`](sus-sp/index.html) | [`usp-bauru/`](usp-bauru/index.html) |
-| Bíblia (resumo por tema) | [`pdf/Biblia_SUS-SP.pdf`](pdf/Biblia_SUS-SP.pdf) | [`pdf/Biblia_USP-Bauru.pdf`](pdf/Biblia_USP-Bauru.pdf) |
+| Bíblia (resumo por assunto, 2–3 páginas cada) | [`pdf/Biblia_SUS-SP.pdf`](pdf/Biblia_SUS-SP.pdf) | [`pdf/Biblia_USP-Bauru.pdf`](pdf/Biblia_USP-Bauru.pdf) |
 | Questões inéditas + gabarito comentado | [`pdf/Questoes_SUS-SP.pdf`](pdf/Questoes_SUS-SP.pdf) (81) | [`pdf/Questoes_USP-Bauru.pdf`](pdf/Questoes_USP-Bauru.pdf) (85) |
 
 - Flashcards: arquivo HTML único, sem dependências. O progresso fica salvo no navegador.
-- Só entram os temas em que a banca teve 3 ou mais questões, do mais para o menos cobrado.
+- Bíblia e flashcards são organizados por assunto (ex.: Insuficiência cardíaca, Síndromes coronarianas agudas), do mais para o menos cobrado pela banca; entram os assuntos com 2 ou mais questões da banca (e "outros temas" da especialidade com 1 ou mais).
+- Siglas aparecem como SIGLA (Significado) no primeiro uso em cada assunto.
 - Questões inéditas: originais, escritas a partir dos padrões de cada banca (SUS-SP: sempre 5 alternativas; USP Bauru: 4 ou 5).
 
 > Conferir doses, esquemas vacinais e portarias vigentes (ex.: HPV, eMulti) antes de usar em prática clínica.
